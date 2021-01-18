@@ -1,10 +1,10 @@
-com\autummm\entity\PersonInfo.class
 com\autummm\entity\ShopCategory.class
 com\autummm\entity\ProductCategory.class
 com\autummm\entity\WechatAuth.class
 com\autummm\entity\Area.class
-com\autummm\entity\HeadLine.class
 com\autummm\entity\Shop.class
-com\autummm\entity\LocalAuth.class
 com\autummm\entity\ProductImg.class
+com\autummm\entity\PersonInfo.class
+com\autummm\entity\HeadLine.class
+com\autummm\entity\LocalAuth.class
 com\autummm\entity\Product.class
